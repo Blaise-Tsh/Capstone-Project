@@ -1,2 +1,2 @@
-# Capstone Project
-This concerns the battle of Neighborhoods
+# Neighborhoods businesses Comparison Using K-Means Clustering, Case of New York vs Toronto
+The Neighborhoods businesses comparison of two or more different cities is a type of unsupervised classification where venues have to be segmented and grouped into a certain number of dissimilar and non-overlapping clusters.  These clusters should contain similar venues of common characteristics, without any internal structure or label.  K-Means algorithms is one of the most popular tools of segmentation of unsupervised data that will be used here coupled with foursquare API to make essentially venues calls to retrieve needed information. 
